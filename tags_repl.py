@@ -13,7 +13,7 @@ tags_replacement = {
     "Accessible content": "Accessible content",
     "Aerospace": "Aerospace",
     "Agency": "Agency",
-    "Agile": "Agile",
+    "Agile": "Agile Development",
     "Agile Development": "Agile Development",
     "Agola": "Agola",
     "Airflow": "Airflow",
